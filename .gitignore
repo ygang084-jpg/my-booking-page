@@ -1,0 +1,9 @@
+# OS / 편집기
+.DS_Store
+Thumbs.db
+
+# 의존성 (혹시 추가될 경우)
+node_modules/
+
+# 로컬 전용 Claude 설정 (개인 설정은 올리지 않음)
+.claude/settings.local.json
